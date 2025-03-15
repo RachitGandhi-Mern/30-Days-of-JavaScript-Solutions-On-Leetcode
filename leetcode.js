@@ -8,7 +8,7 @@
 
 let createHelloWorld = function() {  
     return function() {  
-        return "Rachit";  
+        return "Hello World";  
     };  
 };  
 
